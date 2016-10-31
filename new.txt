@@ -1,5 +1,4 @@
 this is a new file in hello-world repository
 make the second line to see the history changes
-3
 the forth line is taken
 5th
