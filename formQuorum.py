@@ -32,7 +32,6 @@ def getColumnElement(matr,j):
 
 #------------- part 1) tested by random L -----------------
 def createNprocessVotingSet(N):
-    
    
     print "random between (4,9) for N = ",N
     
