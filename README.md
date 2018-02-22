@@ -6,4 +6,3 @@ problem 1. 2) with issues in maekawa.py
 problem 2. min-min in hw2-2.1.py
 problem 2. min-max in hw2-2.2.py
 problem 2. sufferage in hw2-2.3.py
-
